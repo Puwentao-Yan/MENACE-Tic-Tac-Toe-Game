@@ -1,1 +1,2 @@
-# MENACE-Tic-Tac-Toe-Game
+# TicTacToe
+ ITI 1121 Project
